@@ -50,4 +50,14 @@ button {
 #save-btn {
     background: rgb(21, 212, 101);
 }
-
+ion-icon{
+    color: burlywood;
+    font-size: 2em;
+}
+.last-text{
+    position: absolute;
+   bottom:0;
+    right: 0;
+    left:0;
+    margin-bottom: 10px;
+}
